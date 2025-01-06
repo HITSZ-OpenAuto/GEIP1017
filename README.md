@@ -1,4 +1,4 @@
-# GEIP1017 - 习近平新时代中国特色社会主义思想
+# GEIP1017 - 习近平新时代中国特色社会主义思想概论
 
 <!--
 1. 通过 [Shields.io](https://shields.io/) 生成如下的徽章，标注课程的基本信息。
@@ -17,7 +17,9 @@
 ![期末论文50%](https://img.shields.io/badge/期末论文-50%25-wheat)
 
 ![成绩构成(24级)](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90(24级)-gold)
-
+![平时和课堂展示20%](https://img.shields.io/badge/平时和课堂展示-20%25-wheat)
+![期中论文20%](https://img.shields.io/badge/期中论文-20%25-wheat)
+![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
 
 ## 关于考试
 
