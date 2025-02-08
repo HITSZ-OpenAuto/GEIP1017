@@ -13,15 +13,17 @@
 ![考试课](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE（24级之后）-red)
 ![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2.5-moccasin)
 
-![成绩构成(23级)](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90(23级)-gold)
+![成绩构成（23 级）](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90（23级）-gold)
 ![平时和课堂展示20%](https://img.shields.io/badge/平时和课堂展示-20%25-wheat)
 ![期中论文30%](https://img.shields.io/badge/期中论文-30%25-wheat)
 ![期末论文50%](https://img.shields.io/badge/期末论文-50%25-wheat)
 
-![成绩构成(24级)](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90(24级)-gold)
+![成绩构成（24 级）](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90（24级）-gold)
 ![平时和课堂展示20%](https://img.shields.io/badge/平时和课堂展示-20%25-wheat)
 ![期中论文20%](https://img.shields.io/badge/期中论文-20%25-wheat)
 ![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
+
+<!--徽章不能包含空格，因此无法在数字和中文间添加空格-->
 
 ## 关于考试
 
