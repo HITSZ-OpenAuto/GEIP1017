@@ -1,0 +1,77 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2658,
+    "time": 1751724849,
+    "hash": "adf0886dee4aab0b7c1923159daae5bbecffbc5e"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1736051686,
+    "hash": "8da51a966f578eff45f7fe432f64e74be56bf9aa"
+  },
+  "README.md": {
+    "size": 1629,
+    "time": 1739002803,
+    "hash": "6ef1deb66f7070d823693d17f3684ad47951a479"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1739002803,
+    "hash": "6ef1deb66f7070d823693d17f3684ad47951a479"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1739002803,
+    "hash": "6ef1deb66f7070d823693d17f3684ad47951a479"
+  },
+  "exams/2024年10月高教自学考试全国卷-习思想.pdf": {
+    "size": 2209566,
+    "time": 1739002803,
+    "hash": "6ef1deb66f7070d823693d17f3684ad47951a479"
+  },
+  "exams/2024年10月高等教育自学考试全国统一命题考试-习思想.pdf": {
+    "size": 2209566,
+    "time": 1737214666,
+    "hash": "2cbaeba55a1a58f99cefeec7485f1fe793c447f8"
+  },
+  "exams/2024级秋季学期习概期末（回忆版）.pdf": {
+    "size": 112735,
+    "time": 1737214666,
+    "hash": "2cbaeba55a1a58f99cefeec7485f1fe793c447f8"
+  },
+  "exams/习概练习题.pdf": {
+    "size": 1337720,
+    "time": 1737214666,
+    "hash": "2cbaeba55a1a58f99cefeec7485f1fe793c447f8"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1739002803,
+    "hash": "6ef1deb66f7070d823693d17f3684ad47951a479"
+  },
+  "notes/2024秋习概串讲与复习提纲整理_Alan.pdf": {
+    "size": 834265,
+    "time": 1737214666,
+    "hash": "2cbaeba55a1a58f99cefeec7485f1fe793c447f8"
+  },
+  "notes/2024秋习概串讲整理_24串讲整理小组.pdf": {
+    "size": 189836,
+    "time": 1737214666,
+    "hash": "2cbaeba55a1a58f99cefeec7485f1fe793c447f8"
+  },
+  "notes/习思想学习纲要思维导图.pdf": {
+    "size": 4330264,
+    "time": 1736146470,
+    "hash": "47ca38a991a9543498fcd0436cdde1ff808e4016"
+  },
+  "notes/习概自学考试大纲-全国高等教育自学考试指导委员会.pdf": {
+    "size": 295858,
+    "time": 1737214666,
+    "hash": "2cbaeba55a1a58f99cefeec7485f1fe793c447f8"
+  },
+  "tag.txt": {
+    "size": 107,
+    "time": 1736052188,
+    "hash": "16fc9652b94146b631014c4fcfec4be226ca009c"
+  }
+}
