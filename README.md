@@ -23,6 +23,11 @@
 ![期中论文20%](https://img.shields.io/badge/期中论文-20%25-wheat)
 ![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
 
+![成绩构成（25 级）](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90（25级）-gold)
+![平时和课堂展示24%](https://img.shields.io/badge/平时和课堂展示-24%25-wheat)
+![期中论文16%](https://img.shields.io/badge/期中论文-16%25-wheat)
+![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
+
 <!--徽章不能包含空格，因此无法在数字和中文间添加空格-->
 
 ## 关于考试
