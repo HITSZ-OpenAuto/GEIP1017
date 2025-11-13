@@ -1,0 +1,119 @@
+ID: "GEIP1017"
+SimilarID: []
+Name: "习近平新时代中国特色社会主义思想概论"
+CourseProperty:
+  Major:
+    - Year: "2022_2023"
+      Name: [ "电信", "自动化", "电气", "土木", "环境", "数学", "材料", "计算机", "机械", "建筑", "工商管理", "经济", "能源", "工业设计（合作办学）", "数字媒体艺术（合作办学）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: ""
+      Semester: "春"
+  CourseType: "必修"
+  CourseID: "GEIP1017"
+  CourseName: "习近平新时代中国特色社会主义思想概论"
+  Credit: "2.5"
+  CourseHour: "40.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时和课堂展示"
+      Percentage: "20"
+    - Name: "期中论文"
+      Percentage: "30"
+    - Name: "期末论文"
+      Percentage: "50"
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
+
+  Major:
+    - Year: "2023_2024"
+      Name: [ "工科试验班（计算机与电子通信）", "工科试验班（自动化与电气工程）", "工科试验班（机器人与智能装备）", "经济管理试验班", "化学", "工科试验班（先进材料类）", "工科试验班（智能土木类）", "工科试验班（生态环境类）", "工业设计（合作办学）", "建筑", "建筑学（合作办学）", "数字媒体艺术（合作办学）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大一"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "GEIP1017"
+  CourseName: "习近平新时代中国特色社会主义思想概论"
+  Credit: "2.5"
+  CourseHour: "40.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时和课堂展示"
+      Percentage: "20"
+    - Name: "期中论文"
+      Percentage: "30"
+    - Name: "期末论文"
+      Percentage: "50"
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
+
+  Major:
+    - Year: "2024_2025"
+      Name: [ "工科试验班（计算机与电子通信）", "工科试验班（智慧能源与低空动力）", "工科试验班（机器人与智能装备）", "工科试验班（空天科技）", "经济管理试验班" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大一"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "GEIP1017"
+  CourseName: "习近平新时代中国特色社会主义思想概论"
+  Credit: "2.5"
+  CourseHour: "40.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时和课堂展示"
+      Percentage: "20"
+    - Name: "期中论文"
+      Percentage: "20"
+    - Name: "期末考试"
+      Percentage: "60"
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
+
+  Major:
+    - Year: "2025_2026"
+      Name: [ "工科试验班（计算机与电子通信）", "工科试验班（卓越优才计划）", "建筑类", "通信工程（中外合作办学）", "工科实验班（AI加先进技术领军班深圳拔尖班）", "经济管理实验班" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大一"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "GEIP1017"
+  CourseName: "习近平新时代中国特色社会主义思想概论"
+  Credit: "2.5"
+  CourseHour: "40.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时和课堂展示"
+      Percentage: "24"
+    - Name: "期中论文"
+      Percentage: "16"
+    - Name: "期末考试"
+      Percentage: "60"
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
