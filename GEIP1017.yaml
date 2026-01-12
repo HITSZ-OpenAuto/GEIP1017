@@ -1,0 +1,33 @@
+course_name: "习近平新时代中国特色社会主义思想概论"
+course_code: "GEIP1017"
+notices: |
+  22、23级为考查课，24级及之后为考试课。
+grading:
+  2023: "平时和课堂展示(20%) + 期中论文(30%) + 期末论文(50%)"
+  2024: "平时和课堂展示(20%) + 期中论文(20%) + 期末考试(60%)"
+  2025: "平时和课堂展示(24%) + 期中论文(16%) + 期末考试(60%)"
+teachers:
+  - name: "席伟健"
+    reviews:
+      - content: |
+          授课风格：课堂氛围很好，使用 PPT，但是不会照着念，而是分享有关的故事和理论。无课间，想上厕所自己去。
+          考勤情况：无点名，但是会排座位表，且座位定期轮换。
+        submitter:
+          name: ""
+          link: ""
+textbooks:
+  - title: "习近平新时代中国特色社会主义思想概论（2023 年版）"
+    author: "本书编写组"
+    publisher: "高等教育出版社、人民出版社"
+    edition: "2023"
+    type: "textbook"
+    submitter:
+      name: ""
+      link: ""
+online_resources: []
+about_course: []
+about_exam: []
+study_advice: []
+schedule: []
+related_links: []
+misc: []
