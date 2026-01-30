@@ -1,0 +1,22 @@
+course_name = "习近平新时代中国特色社会主义思想概论"
+repo_type = "normal"
+course_code = "GEIP1017"
+
+# 授课教师 (Lecturers)
+[[lecturers]]
+name = "席伟健"
+
+  [[lecturers.reviews]]
+  content = """
+  授课风格：课堂氛围很好，使用 PPT，但是不会照着念，而是分享有关的故事和理论。无课间，想上厕所自己去。
+              考勤情况：无点名，但是会排座位表，且座位定期轮换。
+  """
+  author = { name = "", link = "", date = "" }
+
+# 教材与参考书(不需要author)
+[[textbooks]]
+title = "习近平新时代中国特色社会主义思想概论"
+book_author = "本书编写组"
+publisher = "高等教育出版社、人民出版社"
+edition = "2023 年版"
+type = "textbook"
