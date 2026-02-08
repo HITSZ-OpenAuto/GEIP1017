@@ -1,0 +1,31 @@
+course_name = "习近平新时代中国特色社会主义思想概论"
+repo_type = "normal"
+course_code = "GEIP1017"
+
+description = ""
+
+[[lecturers]]
+name = "席伟健"
+
+[[lecturers.reviews]]
+content = """
+授课风格：课堂氛围很好，使用 PPT，但是不会照着念，而是分享有关的故事和理论。无课间，想上厕所自己去。
+考勤情况：无点名，但是会排座位表，且座位定期轮换。
+"""
+
+
+[[sections]]
+title = "教材"
+
+[[sections.items]]
+content = "- **习近平新时代中国特色社会主义思想概论**（本书编写组 / 高等教育出版社、人民出版社 / 2023 年版 / textbook）"
+
+[[sections]]
+title = "关于考试"
+
+[[sections.items]]
+content = """
+本课程考核性质发生过变更：
+22、23级为考查课（期末通常为论文）；
+24级及以后改为考试课（期末为闭卷考试）。
+"""
