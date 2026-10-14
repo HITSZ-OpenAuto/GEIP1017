@@ -1,9 +1,5 @@
 # GEIP1017 - 习近平新时代中国特色社会主义思想概论
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![请参考具体年份设置（23级为考查课，24级及以后为考试课）](https://img.shields.io/badge/请参考具体年份设置（23级为考查课，24级及以后为考试课）--wheat)
 
 ## 授课教师
 
